@@ -1,10 +1,10 @@
-#Big Mart Sales Prediction#
+# Big Mart Sales Prediction#
 
-##Project Description
+## Project Description
 
 The **Big Mart Sales Prediction** project aims to build a predictive model that forecasts sales for various products in Big Mart outlets based on historical sales data. Understanding sales patterns is crucial for optimizing inventory management, designing effective marketing strategies, and enhancing customer satisfaction. This project employs machine learning techniques to analyze factors influencing sales, ultimately providing actionable insights to support strategic decision-making.
 
-###Objectives:
+### Objectives:
 - To predict future sales for Big Mart outlets using historical sales data.
 - To identify key factors that significantly impact sales performance.
 - To provide a data-driven approach for inventory management and marketing strategies.
